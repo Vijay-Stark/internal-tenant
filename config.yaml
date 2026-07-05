@@ -1,0 +1,3 @@
+api:
+  name: test-service
+  version: v0.1.0
